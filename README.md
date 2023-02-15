@@ -1,4 +1,4 @@
-<h1 align="center">Hola,soy Sebastian Madero</h1>
+<h1 align="center">Hola, soy Sebastian Madero</h1>
 <h3 align="center">Soy un front end developer y trabajo principalmente en Reactjs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebmm3010&label=Profile%20views&color=0e75b6&style=flat" alt="sebmm3010" /> </p>
