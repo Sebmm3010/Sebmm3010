@@ -1,4 +1,4 @@
-<h3 align="left">Hola 👋!, Soy Sebastian madero, vivo en Colombia y soy un front-end web developer, pero también puedo manejar back-end, me especializó principalmente en trabajar con ReactJS en la parte del fron-end y con NodeJS en el back-end.</h3>
+<h3 align="left">Hola 👋!, Soy Sebastian madero, vivo en Colombia y soy un front-end developer, pero también puedo manejar back-end, me especializó principalmente en trabajar con ReactJS en la parte del fron-end y con NodeJS en el back-end.</h3>
 
 ###
 
